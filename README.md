@@ -27,3 +27,6 @@ The challenge is to recognize fraudulent credit card transactions so that the cu
 11. Building all kind of evalution methods
 12. Visulization the matrix
 
+# Contributing
+Contributions are welcome! If you have any suggestions or improvements, please fork the repository and submit a pull request.
+
